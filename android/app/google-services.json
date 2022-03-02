@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809505663616",
+    "firebase_url": "https://loja-virtual.com",
+    "project_id": "loja-flutter-9cb61",
+    "storage_bucket": "loja-flutter-9cb61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809505663616:android:3756d96864320ce2655465",
+        "android_client_info": {
+          "package_name": "evelyn.com.br.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809505663616-v4u455p0vb3ouvdadsbdcnl27o26mqqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-LRMbcPrUHp0hQODcAF552VrIItNuk7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809505663616-v4u455p0vb3ouvdadsbdcnl27o26mqqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

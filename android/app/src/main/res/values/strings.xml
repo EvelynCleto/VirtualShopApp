@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loja da Evelyn</string>
+    <string name="facebook_app_id">270514211888126</string>
+    <string name="fb_login_protocol_scheme">fb270514211888126</string>
+
+</resources>
