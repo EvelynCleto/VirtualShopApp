@@ -1,5 +1,5 @@
 <p align="center">
-    Aplicativo de Loja Virtual - Android e iOS com Flutter
+     Loja Virtual - Android e iOS com Flutter
     <br />
     <br />
 </p>
