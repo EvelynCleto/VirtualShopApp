@@ -1,78 +1,76 @@
-# Loja-Virtual
-Aplicativo de Loja Virtual - Android e iOS com Flutter
-
-
-
-<br />
 <p align="center">
-    <a href="![tela-inicial](https://user-images.githubusercontent.com/67518341/156405940-9ae34e2e-e216-43d5-8011-dceaa8e76c40.jpg)" alt="Banner" width="700"></a>
-</p>
-<p align="center">
-
-<a href="https://user-images.githubusercontent.com/67518341/138405005-db137128-1237-4d4c-98e9-83d6fa59ac61.mp4" alt="Banner" width="700"></a>
-</p>
-   <p align="center">
-    Clone da homepage da Netflix utilizando React JS.
+    Aplicativo de Loja Virtual - Android e iOS com Flutter
     <br />
     <br />
-<a href="https://mcosta21.github.io/netflix-clone-reactjs/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-gitpages.png?raw=true" alt="React JS" width="140"></a>  
 </p>
-
-## Tecnologias
-Basicamente, este projeto foi desenvolvimento com base nas seguintes tecnologias:
 
 <p align="center">
- <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-reactjs.png?raw=true" alt="React JS" width="60"></a>
-  &nbsp&nbsp
-<a href="https://www.themoviedb.org/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-tmdb.png?raw=true" alt="TMDB" width="60"></a>
-  &nbsp&nbsp
+<img src="https://user-images.githubusercontent.com/67518341/156411252-fb911ea3-da17-46ba-b100-ccb2260488da.jpg" width="330px" height="550px" />
+   &nbsp&nbsp
+    &nbsp&nbsp
+<img src="https://user-images.githubusercontent.com/67518341/156406788-fcaec5a3-d211-4ca9-ac19-600d401fe817.jpg"  width="330px" height="550px" />
 </p>
+   <br />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/67518341/156411795-79db9add-ed8c-4f7c-9107-1e772981ee1f.jpg"  width="330px" height="550px" />
+     &nbsp&nbsp
+    &nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/67518341/156412233-1ed00e31-bd6f-432c-973e-c15902ab837e.jpg"  width="330px" height="550px" />
+</p>    
+    
+   <br />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/67518341/156413661-fe62557e-bf90-48df-8ad7-03cd186746b4.jpg"  width="330px" height="550px" />
+     &nbsp&nbsp
+    &nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/67518341/156413840-0a7fac2a-85fa-42e7-98be-08168be57e54.jpg"  width="330px" height="550px" />
+</p>   
 
-## 💻 Sobre o projeto
+   <br />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/67518341/156414532-9e5a55ce-9ef8-4494-affe-a092429373ca.jpg"  width="330px" height="550px" />
+     &nbsp&nbsp
+    &nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/67518341/156414668-e0fbbbe2-1324-4038-81dd-ca4b783be28d.jpg"  width="330px" height="550px" />
+</p>  
 
-Recriar a interface do [Netflix](https://www.netflix.com/) como forma de aprendizagem e treinar as skills perante o uso de TypeScript, React e CSS. Durante a construção deste projeto foi usado este [vídeo](https://www.youtube.com/watch?v=tBweoUiMsDg&ab_channel=BoniekyLacerda) como material de apoio.
+  <br />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/67518341/156414774-d7efb1ee-19c6-40aa-9fe0-66242cd7f48c.jpg"  width="330px" height="550px" />
+     &nbsp&nbsp
+    &nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/67518341/156415008-ea9ae8b8-6aed-491e-96bf-4e0d6dcfef3c.jpg"  width="330px" height="550px" />
+</p> 
 
-Todos os dados dos catálogos como título, descrição, capa, foto de background e avaliação foram extraídos ao usar a [API TMDb](https://www.themoviedb.org/documentation/api).
+  <br />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/67518341/156415074-a0c2081d-9790-4aac-8b64-59240904b2b1.jpg"  width="330px" height="550px" />
+</p> 
 
-### Funcionalidades
+  <br />
+<p align="center">
+     <img src="https://user-images.githubusercontent.com/67518341/156415243-60932409-0ef8-4cb4-b2eb-16c02ae0beda.jpg"  width="330px" height="550px" />
+     &nbsp&nbsp
+     &nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/67518341/156415671-2cdd43ae-9e83-4446-afb3-5ebba5acca2c.jpg"  width="330px" height="550px" /> 
+</p> 
 
-- [x] **Spinning Loading**: Efeito ao trazer os dados da API.
+  <br />
+<p align="center">
+     <img src="https://user-images.githubusercontent.com/67518341/156415807-08d14e33-fcb8-430d-a3fb-9c990abc5542.jpg"  width="330px" height="550px" />
+     &nbsp&nbsp
+     &nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/67518341/156415855-a5aa9767-003b-4528-b9c6-76dea49edff8.jpg"  width="330px" height="550px" /> 
+</p> 
 
-- [x] **Catálogo Destaque**: Selecionar um catálogo de forma aleatória e apresentá-lo na página inicial.
+  <br />
+<p align="center">
+     <img src="https://user-images.githubusercontent.com/67518341/156416041-f607d530-4206-4aea-8d04-99eb5eadd700.jpg"  width="330px" height="550px" />
+     &nbsp&nbsp
+     &nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/67518341/156416068-8639d9bf-c7a2-4f2f-8c30-04fdb9af4cde.jpg"  width="330px" height="550px" /> 
+</p> 
 
-- [x] **Listagem Sessões**: Ao consumir a API separar os catálogos em sessões.
 
-- [x] **Efeito Menu**: Criar um efeito no background do menu conforme o scroll da tela do usuário.
 
-- [x] **Cartão Catálogo**: Apresentar um cartão com os detalhes do catálogo ao passar o mouse por cima da capa.
 
-- [x] **Listagem Carrossel**: Apresentar botões de controle para manipular a visualização dos itens da sessão.
-
-- [ ] **Listagem Infinita**: Ao chegar no final da lista dos catálogos deve-se apresentar os mesmos itens do início.
-
-## Iniciar projeto
-
-Com o terminal a disposição, siga as seguintes instruções:
-
-```bash
-# Clonar o repositório
-$ git clone https://github.com/mcosta21/netflix-clone-reactjs
-
-# Acessa a pasta do netflix-clone-reactjs
-$ cd netflix-clone-reactjs
-
-# Instalar as dependências
-$ npm install
-
-# Iniciar a aplicação
-$ npm start
-
-# Aplicação rodando na porta 3000
-```
-### Observação
-
-Para utilizar a API do themoviedb.org, você deverá se cadastrar e obter uma chave de acesso, que necessariamente é utilizado no aplicativo.
-
-> Pasta **src** > **Tmdbb.js** > **API_KEY**
-
-## Como contribuir
